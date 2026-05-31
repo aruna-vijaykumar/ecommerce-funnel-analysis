@@ -77,9 +77,9 @@ Cohort Retention Heatmap
 
 
 Project Structure
-├── Funnel_Analysis.ipynb   # Full analysis notebook
-├── images/                 # Chart exports
-└── README.md
+-  Funnel_Analysis.ipynb   # Full analysis notebook
+-  images/                 # Chart exports
+-  README.md
 
 ## Limitations
 
