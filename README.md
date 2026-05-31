@@ -51,25 +51,32 @@ Purchase Funnel
 
 <img width="547" height="529" alt="image" src="https://github.com/user-attachments/assets/b497a855-e39c-43f4-9fe4-df8a6c0aa8dd" />
 
+
+
 Funnel by Traffic Source
 
 <img width="1189" height="589" alt="image" src="https://github.com/user-attachments/assets/51edf469-32ca-48eb-9b2a-7da61ca663c5" />
+
+
 
 Revenue by Category
 
 <img width="758" height="453" alt="image" src="https://github.com/user-attachments/assets/e6ce2354-4ed8-4f99-b994-8b1d18562b42" />
 
+
+
 Revenue by Department
 
 <img width="409" height="409" alt="image" src="https://github.com/user-attachments/assets/17a1f6ce-3a79-4dc5-9383-f235d94078f5" />
+
+
 
 Cohort Retention Heatmap
 
 <img width="1089" height="590" alt="image" src="https://github.com/user-attachments/assets/de80040b-e8d5-42d1-8e78-5a19110da7d7" />
 
 
-
-## Project Structure
+Project Structure
 ├── Funnel_Analysis.ipynb   # Full analysis notebook
 ├── images/                 # Chart exports
 └── README.md
