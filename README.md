@@ -81,6 +81,40 @@ Project Structure
 -  images/                 # Chart exports
 -  README.md
 
+## Business Recommendations
+
+**1. Fix the cart abandonment drop-off first**
+57.9% of users who add to cart don't complete a purchase. Since conversion rates
+are uniform across all traffic sources (26.5%–26.9%), the problem is in the
+checkout experience, not acquisition. A/B test checkout flow simplification,
+guest checkout, and payment options before investing further in traffic acquisition.
+
+**2. Investigate the 14.86% cancellation rate**
+Cancellations are uniform across all categories, which rules out product-specific
+issues and points to a platform or fulfillment problem — likely checkout confusion,
+payment failures, or delivery expectation mismatch. Audit the post-purchase flow.
+
+**3. Scale email marketing**
+Email drives the highest purchase volume at the same conversion efficiency as
+other channels. It is the most cost-effective channel to scale — increase email
+list growth and campaign frequency before increasing spend on paid channels.
+
+**4. Prioritize men's department marketing**
+Men's products generate more revenue ($5.74M vs $5.09M) despite fewer purchases,
+meaning higher average order value. Targeted campaigns for men's outerwear, jeans,
+and sweaters would maximize revenue per campaign dollar.
+
+**5. Target the second-to-third purchase gap**
+The steepest retention drop-off is between 2nd and 3rd purchase (20,231 → ~5,000
+customers). A re-engagement campaign — discount, loyalty points, or personalized
+recommendation — sent 3–6 months after a second purchase is the single highest-
+leverage retention opportunity in this dataset.
+
+**6. Don't over-invest in retention too early**
+Monthly cohort retention averages ~2.8%, meaning most repeat purchases are
+infrequent. Focus first on converting first-time buyers to a second purchase
+(the 62.3% one-time buyer problem) before optimizing for long-term loyalty.
+
 ## Limitations
 
 - Session-based funnel: Built at session level, not user level. A single user abandoning and returning across multiple sessions is counted as separate funnel entries.
