@@ -49,31 +49,32 @@ Python · Pandas · NumPy · Matplotlib · Seaborn
 ## Visualizations
 Purchase Funnel
 
-<img width="547" height="529" alt="image" src="https://github.com/user-attachments/assets/b497a855-e39c-43f4-9fe4-df8a6c0aa8dd" />
+<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/a68d1e9e-b258-4f96-8cba-66dfde23f647" />
 
 
 
 Funnel by Traffic Source
 
-<img width="1189" height="589" alt="image" src="https://github.com/user-attachments/assets/51edf469-32ca-48eb-9b2a-7da61ca663c5" />
+<img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/b76c28e7-a4fe-4205-b9e5-ea1b7b6930d2" />
 
 
 
 Revenue by Category
 
-<img width="758" height="453" alt="image" src="https://github.com/user-attachments/assets/e6ce2354-4ed8-4f99-b994-8b1d18562b42" />
+<img width="1013" height="464" alt="image" src="https://github.com/user-attachments/assets/c76bb49b-376f-4836-b6c8-d03346226322" />
 
 
 
 Revenue by Department
 
-<img width="409" height="409" alt="image" src="https://github.com/user-attachments/assets/17a1f6ce-3a79-4dc5-9383-f235d94078f5" />
+<img width="405" height="427" alt="image" src="https://github.com/user-attachments/assets/56f71cb9-d832-4397-90fd-4c5c60102766" />
 
 
 
 Cohort Retention Heatmap
 
-<img width="1089" height="590" alt="image" src="https://github.com/user-attachments/assets/de80040b-e8d5-42d1-8e78-5a19110da7d7" />
+<img width="1079" height="590" alt="image" src="https://github.com/user-attachments/assets/065fdc8c-c86a-4187-8437-b8f9dca47500" />
+
 
 
 Project Structure
