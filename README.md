@@ -42,7 +42,7 @@ Python · Pandas · NumPy · Matplotlib · Seaborn
 - 37.7% of customers made more than one purchase
 - Repeat buyers placed an average of 2.5 orders
 - Steepest drop-off between 2nd and 3rd purchase (20,231 → ~5,000 customers)
-- Mean monthly cohort retention rate: 12.8%
+- Mean monthly cohort retention rate: 2.4%
 - Re-engagement campaigns targeted 3–6 months after a second purchase represent the highest-leverage retention opportunity
 
 
@@ -91,14 +91,13 @@ checkout experience, not acquisition. A/B test checkout flow simplification,
 guest checkout, and payment options before investing further in traffic acquisition.
 
 **2. Investigate the 14.86% cancellation rate**
-Cancellations are uniform across all categories, which rules out product-specific
-issues and points to a platform or fulfillment problem — likely checkout confusion,
-payment failures, or delivery expectation mismatch. Audit the post-purchase flow.
+Cancellations are consistent across all product categories (ranging 14.24%–15.96%), 
+which rules out product-specific issues and points to a platform or fulfillment 
+problem — likely checkout confusion, payment failures, or delivery expectation 
+mismatch. Audit the post-purchase flow.
 
 **3. Scale email marketing**
-Email drives the highest purchase volume at the same conversion efficiency as
-other channels. It is the most cost-effective channel to scale — increase email
-list growth and campaign frequency before increasing spend on paid channels.
+Email drives the highest purchase volume at the same conversion efficiency as other channels, making it the most scalable channel to invest in based on this dataset.
 
 **4. Prioritize men's department marketing**
 Men's products generate more revenue ($5.74M vs $5.09M) despite fewer purchases,
@@ -112,13 +111,10 @@ recommendation — sent 3–6 months after a second purchase is the single highe
 leverage retention opportunity in this dataset.
 
 **6. Don't over-invest in retention too early**
-Monthly cohort retention averages ~2.8%, meaning most repeat purchases are
+Monthly cohort retention averages 2.4%, meaning most repeat purchases are
 infrequent. Focus first on converting first-time buyers to a second purchase
 (the 62.3% one-time buyer problem) before optimizing for long-term loyalty.
 
 ## Limitations
 
-- Session-based funnel: Built at session level, not user level. A single user abandoning and returning across multiple sessions is counted as separate funnel entries.
-- Traffic source attribution: Uses the source recorded at event time. Multi-touch attribution is not accounted for.
-- Cohort scope: Measures repeat purchasing only — browsing or wishlist activity between purchases is not captured.
-- Causal inference: All associations are correlational. No causal claims are made without experimental validation such as A/B testing.
+- Session-based funnel: Built at session level, not user level. A single user abandoning and returning across multiple sessions is counted as separate funnel entries.- Traffic source attribution: Uses the source recorded at event time. Multi-touch attribution is not accounted for.- Cohort scope: Measures repeat purchasing only — browsing or wishlist activity between purchases is not captured.- Causal inference: All associations are correlational. No causal claims are made without experimental validation such as A/B testing.
